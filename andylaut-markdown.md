@@ -1,5 +1,5 @@
 # Markdown
-You probably use Microsoft Word to write most of your assignments, and you could certainly find a *worse* word processor. Word can do all kinds of cool stuff if you care to [learn how to use it](lynda.vt.edu)!
+You probably use Microsoft Word to write most of your assignments, and you could certainly find a *worse* word processor. Word can do all kinds of cool stuff if you care to [learn how to use it](https://lynda.vt.edu)!
 
 Most of the time, though, you just need headings, paragraphs, bold/italics, and links. If that's all you need, then you should *absolutely* try Markdown. It's faster, neater, and (once you get used to it) more convenient.
 
@@ -10,7 +10,7 @@ Markdown offers an easier way to write. See examples immediately below, but also
 * List
 * *Italics*
 * **Bold**
-* [Link](www.google.com)
+* [Link](https://www.google.com)
 * See the cheatsheet above for images, pull quotes, and more
 
 ## Markdown with GitHub
